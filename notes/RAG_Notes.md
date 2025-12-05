@@ -2,7 +2,7 @@
 
 Here is the RAG pipeline diagram:
 
-![RAG Pipeline](images/image.png)
+![RAG Pipeline](images\image.png)
 
 This diagram shows the retrieval-augmented generation pipeline...
 
