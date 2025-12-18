@@ -22,3 +22,5 @@ uvicorn
 langserve
 sse_starlette
 langgraph
+arxiv
+wikipedia
